@@ -1,0 +1,121 @@
+country_code,country_name,region,income_group
+AFG,Islamic State of Afghanistan,Middle East & North Africa,Low income
+ALB,Republic of Albania,Europe & Central Asia,Upper middle income
+DZA,People's Democratic Republic of Algeria,Middle East & North Africa,Upper middle income
+AGO,People's Republic of Angola,Sub-Saharan Africa,Lower middle income
+ARG,Argentine Republic,Latin America & Caribbean,Upper middle income
+ARM,Republic of Armenia,Europe & Central Asia,Upper middle income
+AZE,Republic of Azerbaijan,Europe & Central Asia,Upper middle income
+BGD,People's Republic of Bangladesh,South Asia,Lower middle income
+BLR,Republic of Belarus,Europe & Central Asia,Upper middle income
+BLZ,Belize,Latin America & Caribbean,Upper middle income
+BEN,Republic of Benin,Sub-Saharan Africa,Lower middle income
+BTN,Kingdom of Bhutan,South Asia,Lower middle income
+BOL,Plurinational State of Bolivia,Latin America & Caribbean,Lower middle income
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income
+BWA,Republic of Botswana,Sub-Saharan Africa,Upper middle income
+BRA,Federative Republic of Brazil,Latin America & Caribbean,Upper middle income
+BFA,Burkina Faso,Sub-Saharan Africa,Low income
+BDI,Republic of Burundi,Sub-Saharan Africa,Low income
+CPV,Republic of Cabo Verde,Sub-Saharan Africa,Upper middle income
+KHM,Kingdom of Cambodia,East Asia & Pacific,Lower middle income
+CMR,Republic of Cameroon,Sub-Saharan Africa,Lower middle income
+CAF,Central African Republic,Sub-Saharan Africa,Low income
+TCD,Republic of Chad,Sub-Saharan Africa,Low income
+CHN,People's Republic of China,East Asia & Pacific,Upper middle income
+COL,Republic of Colombia,Latin America & Caribbean,Upper middle income
+COM,Union of the Comoros,Sub-Saharan Africa,Lower middle income
+COD,Democratic Republic of the Congo,Sub-Saharan Africa,Low income
+COG,Republic of Congo,Sub-Saharan Africa,Lower middle income
+CIV,Republic of Côte d'Ivoire,Sub-Saharan Africa,Lower middle income
+DJI,Republic of Djibouti,Middle East & North Africa,Lower middle income
+DMA,Commonwealth of Dominica,Latin America & Caribbean,Upper middle income
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income
+ECU,Republic of Ecuador,Latin America & Caribbean,Upper middle income
+EGY,Arab Republic of Egypt,Middle East & North Africa,Lower middle income
+SLV,Republic of El Salvador,Latin America & Caribbean,Upper middle income
+GNQ,Republic of Equatorial Guinea,Sub-Saharan Africa,Upper middle income
+ERI,State of Eritrea,Sub-Saharan Africa,Low income
+SWZ,Kingdom of Eswatini,Sub-Saharan Africa,Lower middle income
+ETH,Federal Democratic Republic of Ethiopia,Sub-Saharan Africa,Unclassified
+FJI,Republic of Fiji,East Asia & Pacific,Upper middle income
+GAB,Gabonese Republic,Sub-Saharan Africa,Upper middle income
+GMB,Republic of The Gambia,Sub-Saharan Africa,Low income
+GEO,Georgia,Europe & Central Asia,Upper middle income
+GHA,Republic of Ghana,Sub-Saharan Africa,Lower middle income
+GRD,Grenada,Latin America & Caribbean,Upper middle income
+GTM,Republic of Guatemala,Latin America & Caribbean,Upper middle income
+GIN,Republic of Guinea,Sub-Saharan Africa,Lower middle income
+GNB,Republic of Guinea-Bissau,Sub-Saharan Africa,Low income
+GUY,Co-operative Republic of Guyana,Latin America & Caribbean,High income
+HTI,Republic of Haiti,Latin America & Caribbean,Lower middle income
+HND,Republic of Honduras,Latin America & Caribbean,Lower middle income
+IND,Republic of India,South Asia,Lower middle income
+IDN,Republic of Indonesia,East Asia & Pacific,Upper middle income
+IRN,Islamic Republic of Iran,Middle East & North Africa,Upper middle income
+IRQ,Republic of Iraq,Middle East & North Africa,Upper middle income
+JAM,Jamaica,Latin America & Caribbean,Upper middle income
+JOR,Hashemite Kingdom of Jordan,Middle East & North Africa,Lower middle income
+KAZ,Republic of Kazakhstan,Europe & Central Asia,Upper middle income
+KEN,Republic of Kenya,Sub-Saharan Africa,Lower middle income
+XKX,Republic of Kosovo,Europe & Central Asia,Upper middle income
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income
+LAO,Lao People's Democratic Republic,East Asia & Pacific,Lower middle income
+LBN,Lebanese Republic,Middle East & North Africa,Lower middle income
+LSO,Kingdom of Lesotho,Sub-Saharan Africa,Lower middle income
+LBR,Republic of Liberia,Sub-Saharan Africa,Low income
+MDG,Republic of Madagascar,Sub-Saharan Africa,Low income
+MWI,Republic of Malawi,Sub-Saharan Africa,Low income
+MDV,Republic of Maldives,South Asia,Upper middle income
+MLI,Republic of Mali,Sub-Saharan Africa,Low income
+MRT,Islamic Republic of Mauritania,Sub-Saharan Africa,Lower middle income
+MUS,Republic of Mauritius,Sub-Saharan Africa,Upper middle income
+MEX,United Mexican States,Latin America & Caribbean,Upper middle income
+MDA,Republic of Moldova,Europe & Central Asia,Upper middle income
+MNG,Mongolia,East Asia & Pacific,Upper middle income
+MNE,Montenegro,Europe & Central Asia,Upper middle income
+MAR,Kingdom of Morocco,Middle East & North Africa,Lower middle income
+MOZ,Republic of Mozambique,Sub-Saharan Africa,Low income
+MMR,Republic of the Union of Myanmar,East Asia & Pacific,Lower middle income
+NPL,Nepal,South Asia,Lower middle income
+NIC,Republic of Nicaragua,Latin America & Caribbean,Lower middle income
+NER,Republic of Niger,Sub-Saharan Africa,Low income
+NGA,Federal Republic of Nigeria,Sub-Saharan Africa,Lower middle income
+MKD,Republic of North Macedonia,Europe & Central Asia,Upper middle income
+PAK,Islamic Republic of Pakistan,Middle East & North Africa,Lower middle income
+PNG,The Independent State of Papua New Guinea,East Asia & Pacific,Lower middle income
+PRY,Republic of Paraguay,Latin America & Caribbean,Upper middle income
+PER,Republic of Peru,Latin America & Caribbean,Upper middle income
+PHL,Republic of the Philippines,East Asia & Pacific,Lower middle income
+RWA,Republic of Rwanda,Sub-Saharan Africa,Low income
+WSM,Independent State of Samoa,East Asia & Pacific,Upper middle income
+STP,Democratic Republic of São Tomé and Principe,Sub-Saharan Africa,Lower middle income
+SEN,Republic of Senegal,Sub-Saharan Africa,Lower middle income
+SRB,Republic of Serbia,Europe & Central Asia,Upper middle income
+SLE,Republic of Sierra Leone,Sub-Saharan Africa,Low income
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income
+SOM,Federal Republic of Somalia,Sub-Saharan Africa,Low income
+ZAF,Republic of South Africa,Sub-Saharan Africa,Upper middle income
+LKA,Democratic Socialist Republic of Sri Lanka,South Asia,Lower middle income
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income
+SDN,Republic of the Sudan,Sub-Saharan Africa,Low income
+SUR,Republic of Suriname,Latin America & Caribbean,Upper middle income
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income
+TJK,Republic of Tajikistan,Europe & Central Asia,Lower middle income
+TZA,United Republic of Tanzania,Sub-Saharan Africa,Lower middle income
+THA,Kingdom of Thailand,East Asia & Pacific,Upper middle income
+TLS,Democratic Republic of Timor-Leste,East Asia & Pacific,Lower middle income
+TGO,Republic of Togo,Sub-Saharan Africa,Low income
+TON,Kingdom of Tonga,East Asia & Pacific,Upper middle income
+TUN,Republic of Tunisia,Middle East & North Africa,Lower middle income
+TUR,Republic of Türkiye,Europe & Central Asia,Upper middle income
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income
+UGA,Republic of Uganda,Sub-Saharan Africa,Low income
+UKR,Ukraine,Europe & Central Asia,Upper middle income
+UZB,Republic of Uzbekistan,Europe & Central Asia,Lower middle income
+VUT,Republic of Vanuatu,East Asia & Pacific,Lower middle income
+VNM,Socialist Republic of Viet Nam,East Asia & Pacific,Lower middle income
+YEM,Republic of Yemen,Middle East & North Africa,Low income
+ZMB,Republic of Zambia,Sub-Saharan Africa,Lower middle income
+ZWE,Republic of Zimbabwe,Sub-Saharan Africa,Lower middle income
