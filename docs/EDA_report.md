@@ -20,7 +20,7 @@
 | Duplicates | Checked on country + indicator + year | 0 found |
 | 73 indicators have no row in series metadata | Topic set to "Unknown" | 576 indicators kept |
 
-[YOUR NOTE: why does it matter to remove the 14 groups before analysing debt?]
+Why it matters to remove the 14 groups: groups such as "Low income" are already totals of many countries. If they stayed in, the same debt would be counted twice (once in the country and once in the group), and the totals, averages and rankings would be wrong. Removing them leaves only real countries.
 
 ## 3. How "debt" is measured
 The dataset has 576 indicators, and they are not all debt (some are GNI, imports or percentages).
@@ -35,7 +35,7 @@ These indicators overlap (e.g. long-term debt includes public and private parts)
 - Mean 73.7 bn, median 12.5 bn, minimum 0.2 bn, maximum 2,450 bn
 - Countries by debt size: below 1 bn: 11 | 1-10 bn: 41 | 10-100 bn: 50 | 100 bn-1 tn: 17 | above 1 tn: 1
 
-[YOUR NOTE: the mean is about six times the median. What does that tell you about the distribution?]
+The mean is about six times the median. This means the distribution is skewed to the right: most countries have fairly small debt (52 of 120 are below 10 bn), but a few very large debtors, such as China, pull the average up. The median (12.5 bn) describes a typical country better than the mean.
 
 ### 4.2 Highest and lowest
 | Rank | Highest debt | bn USD |
@@ -55,7 +55,7 @@ Lowest: Tonga (0.2 bn), Timor-Leste (0.3), Sao Tome and Principe (0.3), Comoros 
 
 The top 5 countries hold 54.3% of the total. China alone holds 27.7%.
 
-[YOUR NOTE: high debt is not the same as high risk. What other data would you need to judge risk?]
+High debt is not the same as high risk, because a big economy can carry a big debt easily. To judge risk we would also need: the size of the economy (GNI or GDP) to see debt relative to income, export earnings and debt service payments to see if repayments are affordable, the share of short-term debt, interest rates, and foreign currency reserves.
 
 ### 4.3 By region
 | Region | Debt (bn USD) |
@@ -82,7 +82,7 @@ The dataset covers mainly low- and middle-income borrowers, so high income is al
 - 2000: 1.83 trillion | 2010: 3.84 trillion | 2020: 8.15 trillion | 2023: 8.84 trillion | 2024: 8.94 trillion
 - Total debt grew about 4.8 times between 2000 and 2023.
 
-[YOUR NOTE: describe the shape of the line chart: when was growth fastest, and when did it flatten?]
+The line rises steadily from 2000. Growth was fastest between 2010 and 2020, when debt more than doubled (about 0.43 trillion added per year, compared with about 0.20 per year in 2000-2010). After 2020 the line flattens: only about 0.8 trillion was added between 2020 and 2024.
 
 ### 4.6 Indicators
 - 538 of 576 indicators are in US$; 38 are not (rates, ratios, years)
@@ -98,10 +98,10 @@ The dataset covers mainly low- and middle-income borrowers, so high income is al
 - Debt-stock indicators overlap and cannot be summed.
 - Projections (2025-2032) were excluded.
 - Only reporting countries are included, mostly low- and middle-income.
-- [YOUR NOTE: add one limitation you noticed yourself.]
+- The data covers external debt only (money owed to foreign lenders), so it does not show a country's full debt, such as money it owes to its own citizens and banks.
 
 ## 7. Conclusions
-1. [YOUR NOTE: biggest finding about concentration]
-2. [YOUR NOTE: biggest finding about regions or income groups]
-3. [YOUR NOTE: biggest finding about the trend]
-4. [YOUR NOTE: one idea for further analysis, e.g. debt relative to GNI]
+1. Debt is highly concentrated: the top 5 countries hold 54.3% of the total and China alone holds 27.7%. Only one country is above 1 trillion USD.
+2. East Asia & Pacific has the most debt (3,420 bn, about 39% of the total), followed by Latin America & Caribbean. By income group, the 49 upper middle income countries hold about 72% of the debt, while the 23 low income countries hold only about 2%.
+3. Total external debt grew about 4.8 times between 2000 and 2023, fastest in 2010-2020, and growth has slowed since 2020.
+4. Further analysis idea: compare debt relative to GNI (debt-to-GNI ratio) to see which countries are the most heavily indebted for their size, not just the largest in dollars.
