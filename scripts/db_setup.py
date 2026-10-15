@@ -1,11 +1,6 @@
 import psycopg2
 
-# ---------- Settings (change the password) ----------
-DB_USER     = "postgres"
-DB_PASSWORD = "KAvi"
-DB_HOST     = "localhost"
-DB_PORT     = 5432
-DB_NAME     = "intl_debt"
+from db_config import DB_USER, DB_PASSWORD, DB_HOST, DB_PORT, DB_NAME
 
 
 # ---------- Step 1: create the database if it does not exist ----------
